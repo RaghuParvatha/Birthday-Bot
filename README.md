@@ -3,6 +3,6 @@
 
 Use of this bot is to send birthday wishes to team members.
 
-## Acknowledgement 
+#### Acknowledgments
 
 @Tiago Botelho & @Diogo Nunes
