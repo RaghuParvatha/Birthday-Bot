@@ -1,7 +1,7 @@
 {
-  "slack_url":        "https://hooks.slack.com/services/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",
-  "channel_name":     "general",
-  "greeting_message": "Happy birthday !",
-  "bot_name":         "Birhday Bot",
-  "bot_emoji":        ":tada:"
+  "slack_url":        "https://hooks.slack.com/services/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",
+  "channel_name":     "austin",
+  "greeting_message": "Wish you a Happy Birthday !",
+  "bot_name":         "Lattice Birthday Bot",
+  "bot_emoji":        ":all_the_things:"
 }
